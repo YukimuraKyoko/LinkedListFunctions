@@ -1,4 +1,4 @@
-# LinkedListFunctions (FIFO)
+# LinkedListFunctions
 
 Contact information: tnguye39@mail.sfsu.edu
 
