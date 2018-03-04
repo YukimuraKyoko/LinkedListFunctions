@@ -27,7 +27,7 @@ Removes the last element of the linked list
 ## insert (currently not working)
 Inserts an element in the linked list at a given location
 
-## deleteDupes
+## deleteDupes (currently not working)
 Deletes any duplicates of a given number
 Example: (deleting "3" in "12342333") -> "1242"
 
